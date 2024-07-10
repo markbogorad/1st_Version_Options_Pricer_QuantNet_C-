@@ -1,6 +1,9 @@
-# option_pricer
-European/American Option Pricer using Black-Scholes
+# 1st_Version_Options_Pricer_QuantNet_C++
 
-First attempt at an option pricer for the QuantNet - Baruch C++ Course
+My first attempt at a Black-Scholes option pricing project for the QuantNet “C++ Programming for Financial Engineering” course - a joint project by the Baruch MFE program, QuantNet and Dr. Daniel Duffy.
 
-Recieved distinction
+# Final Course Score: 91
+
+# Project Score: 97
+
+https://quantnet.com/cpp/
